@@ -1,0 +1,10 @@
+# OS X
+
+.DS_Store
+
+# Project
+
+.bundle/
+.cache/
+.sass-cache/
+build/
