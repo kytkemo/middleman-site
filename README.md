@@ -1,7 +1,7 @@
 middleman-site
 ==============
 
-Template for a Middleman site (Ruby 2.2.0 + Bundler + Middleman 3.3.8). Install the template to `~/.middleman/`.
+Template for a Middleman site (Ruby 2.2.2 + Bundler + Middleman 3.3.8). Install the template to `~/.middleman/`.
 
 ## Install Dependencies
 
