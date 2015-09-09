@@ -2,4 +2,4 @@ source 'https://rubygems.org'
 ruby '2.2.3'
 
 gem 'middleman', '3.4.0'
-gem 'rubocop', '0.30.1'
+gem 'rubocop', '0.34.0'
