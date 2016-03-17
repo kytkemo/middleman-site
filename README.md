@@ -1,7 +1,7 @@
 middleman-site
 ==============
 
-Template for a Middleman site (Ruby 2.3.0 + Bundler + Middleman 4.1.2). Install the template to `~/.middleman/`.
+Template for a Middleman site (Ruby 2.3.0 + Bundler + Middleman 4.1.2).
 
 ## Install Dependencies
 
@@ -9,7 +9,7 @@ Install dependencies with `bundle install`.
 
 ## Create Site from Template
 
-Create a site from the template with `middleman init site --template=middleman-site`.
+Create a site from the template with `middleman init site --template=kytkemo/middleman-site`.
 
 ## Start Server
 
