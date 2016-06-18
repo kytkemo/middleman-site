@@ -1,7 +1,7 @@
 middleman-site
 ==============
 
-Template for a Middleman site (Ruby 2.3.0 + Bundler + Middleman 4.1.2).
+Template for a Middleman site (Ruby 2.3.1 + Bundler + Middleman 4.1.2).
 
 ## Install Dependencies
 
