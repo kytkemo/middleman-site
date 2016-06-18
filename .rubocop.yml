@@ -7,7 +7,7 @@ Style/Documentation:
   Enabled: false
 
 Style/EmptyLinesAroundBlockBody:
-  EnforcedStyle: empty_lines
+  Enabled: false
 
 Style/EmptyLinesAroundClassBody:
   EnforcedStyle: empty_lines
@@ -17,9 +17,6 @@ Style/EmptyLinesAroundMethodBody:
 
 Style/EmptyLinesAroundModuleBody:
   EnforcedStyle: empty_lines
-
-Style/MultilineOperationIndentation:
-  Enabled: false
 
 Style/SpaceInsideBrackets:
   Enabled: false
